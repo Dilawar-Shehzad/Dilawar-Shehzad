@@ -5,12 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilawar-shehzad" alt="dilawar-shehzad" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Open source**
+- 🌱 I’m currently learning **AI & Blockchain**
 
-- 💬 Ask me about **React.js React-Native Node.js Express.js Databases**
+- 👯 I’m looking to collaborate on **Open Source**
+
+- 💬 Ask me about **Web & App Development**
+
+- 📫 How to reach me **idilawarShehzad@gmail.com**
+
+- ⚡ Fun fact **I am Quick Learner!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+**idilawarShehzad@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
