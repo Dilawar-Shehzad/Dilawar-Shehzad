@@ -15,9 +15,9 @@
 
 - ⚡ Fun fact **I am Quick Learner!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
-**idilawarShehzad@gmail.com**
+  To create new ideas!
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
